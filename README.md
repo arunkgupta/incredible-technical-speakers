@@ -16,6 +16,11 @@ are listed at the bottom of this README.
   Powerful storytelling. A moving talk on a serious subject rarely 
   discussed publicly in the software development industry.
 
+* **[David Beazley](https://github.com/dabeaz)'s
+  [Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+  during PyCon US 2015.** An entirely live coded 
+  talk that inspires and teaches the difficult computer science
+  topic of concurrency.
 
 * **[Gary Bernhardt](https://github.com/garybernhardt)'s 
   [Wat](https://archive.org/details/wat_destroyallsoftware)
@@ -94,6 +99,12 @@ are listed at the bottom of this README.
   A well spoken and thoughtful talk on how to read code with fellow developers 
   to improve your programming abilities. Weaves personal stories throughout
   the presentation to bring home the main points.
+
+* *My own* best technical talk: **[Matt Makai](https://github.com/makaimc)'s 
+  [WebSockets in Python](https://www.youtube.com/watch?v=L5YQbNrFfyw) presented 
+  at the SF Python January 2014 meetup.** This is my own favorite technical that 
+  I've given out of my 50+ talks over the past couple of years. The talk has a whole 
+  lot of live coding and audience interaction with the application as I wrote the code.
 
 
 ## Inclusion requirements <a name="inclusion-requirements"></a>
